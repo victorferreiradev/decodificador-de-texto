@@ -1,14 +1,14 @@
-# Decodificador - Projeto ONE + Alura
+# Decodificador 💱 - Projeto ONE + Alura
 
 Um decodificador simples para criptografar e descriptografar texto usando o método Base64.
 
-## Funcionalidades
+## 📝 Funcionalidades
 
 - Criptografar texto
 - Descriptografar texto
 - Exibir resultado na página
 
-## Como Usar
+## 💡 Como Usar
 
 1. Baixe os arquivos HTML, CSS e JavaScript.
 2. Abra o arquivo HTML em um navegador da web.
